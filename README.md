@@ -1,7 +1,7 @@
 Web blog
 ========
 
-This is a simple web-based blog that doesn't do much but introduces Flask, HTML, CSS, Bootstrap, Jinja2, and other concepts such as endpoints and APIs.
+This is a simple web-based blog that utilizes Flask, HTML, CSS, Bootstrap, Jinja2, and other concepts such as endpoints and APIs.
 
 The blog requires MongoDB to be running without authentication enabled.
 
